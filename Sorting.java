@@ -3,7 +3,7 @@ import java.util.Scanner;
 СОРТИРОВКИ
 ВВОД: первое число - кол-во элтов в массиве, далее - числа в массиве через пробел
  */
-class Main {
+class Sorting {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
